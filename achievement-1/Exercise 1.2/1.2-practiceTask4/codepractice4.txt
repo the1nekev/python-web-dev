@@ -1,0 +1,5 @@
+str3[3:] = LO HOW ARE YOU?
+str3[-3:] = U ?
+str3[2:9:3] = L W
+str3[::-2] = 
+str3[2:8] = LLO HO
